@@ -6,3 +6,7 @@ crawl all the the DailyUpdates and Articles in Stratechery
 
 if file not empty and have new updates on web:
 clear data and crawl newer DailyUpdates and Articles
+
+
+
+xattr -d com.apple.quarantine chromedriver 
